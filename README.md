@@ -20,9 +20,16 @@ Dentre as linguagens e tecnologias eu aprendi:</p>
 - Javascript Vanilla ES6;
 (Café, puro e sem açúcar por favor!)
 
-Dentre as bibliotecas e frameworks, conheço um pouco de ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Dentre as bibliotecas e frameworks, conheço um pouco de React e Bootstrap
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Utilizo o famoso VS Code ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) para diagramação e, se necessário algum tratamento de imagens com Adobe Photoshop/Ilustrator. ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) (Ainda pretendo me aprofundar um pouco mais com o kit ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white))
+Utilizo o VS Code para diagramação e, se necessário algum tratamento de imagens com Adobe Photoshop/Ilustrator.  (Ainda pretendo me aprofundar um pouco mais com o kit ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white))
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
 - Tenho boa noção de análise, levantamento de requisitos, documentação de software, diagramas de classes, casos de uso, etc. 
 - Também sei realizar algumas consultas em Banco de Dados relacional WAMP (Apache), manuseio de dados em planilhas e relatórios por filtragem.
 
