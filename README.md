@@ -9,7 +9,11 @@
 
 <h2> ℹ️ &nbsp;&nbsp;&nbsp;Sobre</h2>
 <p><b>👋 Sou Andre, meus amigos me chamam de Riffen, tenho 29 anos e sou estudante de desenvolvimento front-end.</b></p>
-<p>- 👨🏻‍💻 &nbsp; Eu tinha uns 8 anos quando tive meu primeiro contato com a construção de HTML em um bloco de notas. E foi muito mais fácil do que esperava! Foi uma sensação mágica, me incentivou a procurar mais comandos, construir uma página e mostrar pra outras pessoas o que eu tinha feito. Estive transitando entre os diferentes mundos da tecnologia e informática. Trabalhei por anos com eletroeletrônicos com IoT; equipamentos em redes, sistemas de segurança; além de soluções para estruturas de conexão com a internet. Muito dessas experiências com informática, só me ajudaram a perceber o potencial que eu tenho, e que poderia trabalhar em soluções para projetos incríveis.</p>
+<p>- 👨🏻‍💻 &nbsp; Eu tinha uns 8 anos quando tive meu primeiro contato com a construção de HTML em um bloco de notas. Foi uma sensação mágica, me incentivou a procurar mais comandos, construir uma página e mostrar pra outras pessoas o que eu tinha feito. Estive transitando entre os diferentes mundos da tecnologia e informática. Trabalhei por anos com eletroeletrônicos com IoT; equipamentos em redes, sistemas de segurança; além de soluções para estruturas de conexão com a internet. Muito dessas experiências com informática, só me ajudaram a perceber o potencial que eu tenho, e que poderia trabalhar em soluções para projetos incríveis.</p>
+
+<p>Começou a alguns anos a melhor decisão da minha vida. Minha entrada no mundo da programação foi totalmente imersiva, radical e transformadora.
+Busco a primeira experiência como desenvolvedor.</p>
+
 <p>Meu objetivo profissional é promover tranformações digitais e contribuir com melhorias na vida de pessoas e comunidades através do uso de tecnologias. Estou atualmente buscando novas experiências de trabalho remunerado, de maneira que eu possa continuar estudando.</p><br>
 <h2> 🛠 &nbsp;Habilidades</h2>
 <h3>💻 &nbsp;O que já sei fazer</h3>
