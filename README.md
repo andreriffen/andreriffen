@@ -15,24 +15,24 @@
 <h3>HARD SKILLS & HABILIDADES</h3>
 <p>>Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
 Dentre as linguagens e tecnologias eu aprendi:</p>
--Estruturas de páginas em HTML;
--Estilização Cascata CSS;
--Javascript Vanilla ES6;
+- Estruturas de páginas em HTML;
+- Estilização Cascata CSS;
+- Javascript Vanilla ES6;
 (Café, puro e sem açúcar por favor!)
 
 Dentre as bibliotecas e frameworks, conheço um pouco de ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
->Utilizo o famoso VS Code para diagramação e, se necessário algum tratamento de imagens com Adobe Photoshop/Ilustrator. (Ainda pretendo me aprofundar um pouco mais com o kit Adobe Creative)
->Tenho boa noção de análise, levantamento de requisitos, documentação de software, diagramas de classes, casos de uso, etc. 
->Também sei realizar algumas consultas em Banco de Dados relacional WAMP (Apache), manuseio de dados em planilhas e relatórios por filtragem.
-_
-Outras habilidades: 
+<p>Utilizo o famoso VS Code para diagramação e, se necessário algum tratamento de imagens com Adobe Photoshop/Ilustrator. (Ainda pretendo me aprofundar um pouco mais com o kit Adobe Creative)</p>
+- Tenho boa noção de análise, levantamento de requisitos, documentação de software, diagramas de classes, casos de uso, etc. 
+- Também sei realizar algumas consultas em Banco de Dados relacional WAMP (Apache), manuseio de dados em planilhas e relatórios por filtragem.
+
+<h3>Outras habilidades: </h3>
 - Inglês Nivel Intermediário.
 - Noções de comandos em terminais Linux e Git.
-_
-Em um futuro próximo, é de meu interesse abordar estudos em Phyton, Node JS, Ruby e outras tecnologias back-end.
+
+<p>Em um futuro próximo, é de meu interesse abordar estudos em Phyton, Node JS, Ruby e outras tecnologias back-end.
 Tenho interesse em me especializar em Web Ux e Ui, mas por enquanto tenho um caminho a seguir até lá.</p>
-<p>- 👨🏻‍💻 &nbsp; Eu tinha uns 8 anos quando tive meu primeiro contato com a construção de HTML em um bloco de notas. Foi uma sensação mágica, me incentivou a procurar mais comandos, construir uma página e mostrar pra outras pessoas o que eu tinha feito. Estive transitando entre os diferentes mundos da tecnologia e informática. Trabalhei por anos com eletroeletrônicos com IoT; equipamentos em redes, sistemas de segurança; além de soluções para estruturas de conexão com a internet. Muito dessas experiências com informática, só me ajudaram a perceber o potencial que eu tenho, e que poderia trabalhar em soluções para projetos incríveis.</p>
+<h4> Eu tinha uns 8 anos quando tive meu primeiro contato com a construção de HTML em um bloco de notas. Foi uma sensação mágica, me incentivou a procurar mais comandos, construir uma página e mostrar pra outras pessoas o que eu tinha feito. Estive transitando entre os diferentes mundos da tecnologia e informática. Trabalhei por anos com eletroeletrônicos com IoT; equipamentos em redes, sistemas de segurança; além de soluções para estruturas de conexão com a internet. Muito dessas experiências com informática, só me ajudaram a perceber o potencial que eu tenho, e que poderia trabalhar em soluções para projetos incríveis.</h4>
 
 <p>Começou a alguns anos a melhor decisão da minha vida. Minha entrada no mundo da programação foi totalmente imersiva, radical e transformadora.
 Busco a primeira experiência como desenvolvedor.</p>
