@@ -15,21 +15,16 @@
 Busco a primeira experiência como desenvolvedor.</p>
 
 <p>Meu objetivo profissional é promover tranformações digitais e contribuir com melhorias na vida de pessoas e comunidades através do uso de tecnologias. Estou atualmente buscando novas experiências de trabalho remunerado, de maneira que eu possa continuar estudando.</p><br>
-<h2> 🛠 &nbsp;Habilidades</h2>
-<h3>💻 &nbsp;O que já sei fazer</h3>
+
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-<h3>🎓 &nbsp;Em progresso</h3>
-<p>🌱Atualmente</p>
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 
 <p>Em breve</p>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
