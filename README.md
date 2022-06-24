@@ -8,20 +8,20 @@
 </p>
 
 <h2> ℹ️ &nbsp;&nbsp;&nbsp;Sobre</h2>
-<p><b>👋 Sou Andre, meus amigos me chamam de Riffen, tenho 29 anos e sou estudante de desenvolvimento front-end.</b></p>
-<p>Procuro minha primeira experiência remunerada em front-end.
-Ser um Dev foi certamente a melhor decisão que fiz em 2021. Desde então tem sido uma jornada que despertou virtudes adormecidas por anos, que evoca certa nostalgia. Trouxe de volta a boa sensação de fazer algo novo, navegar na internet por ideias diferentes, algo que está associado a uma curiosidade intrínseca. A mágica acontece por meio de interesse puro e legítimo.
+<p><b>👋 Hello world! Meu nome é André, meus amigos me chamam de Riffen, tenho 29 anos e sou estudante de desenvolvimento front-end.</b></p>
+<p>Procuro minha primeira experiência remunerada em front-end. </p>
+<p>Ser um Dev foi certamente a melhor decisão que fiz em 2021. Desde então tem sido uma jornada que despertou virtudes adormecidas por anos, que evoca certa nostalgia. Trouxe de volta a boa sensação de fazer algo novo, navegar na internet por ideias diferentes, algo que está associado a uma curiosidade intrínseca. A mágica acontece por meio de interesse puro e legítimo.</p>
 
->HARD SKILLS & HABILIDADES
-Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
+<h3>HARD SKILLS & HABILIDADES</h3>
+<p>>Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
 Dentre as linguagens e tecnologias eu aprendi:
 -Estruturas de páginas em HTML;
 -Estilização Cascata CSS;
 -Javascript Vanilla ES6;
-(Café, puro e sem açúcar por favor!)
-_
-Dentre as bibliotecas e frameworks, conheço um pouco de React, Bootstrap.
-_
+(Café, puro e sem açúcar por favor!)</p>
+
+<p>Dentre as bibliotecas e frameworks, conheço um pouco de ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) </p>
+
 >Utilizo o famoso VS Code para diagramação e, se necessário algum tratamento de imagens com Adobe Photoshop/Ilustrator. (Ainda pretendo me aprofundar um pouco mais com o kit Adobe Creative)
 >Tenho boa noção de análise, levantamento de requisitos, documentação de software, diagramas de classes, casos de uso, etc. 
 >Também sei realizar algumas consultas em Banco de Dados relacional WAMP (Apache), manuseio de dados em planilhas e relatórios por filtragem.
