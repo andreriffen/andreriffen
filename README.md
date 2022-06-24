@@ -13,11 +13,11 @@
 Ser um Dev foi certamente a melhor decisão que fiz em 2021. Desde então tem sido uma jornada que despertou virtudes adormecidas por anos, que evoca certa nostalgia. Trouxe de volta a boa sensação de fazer algo novo, navegar na internet por ideias diferentes, algo que está associado a uma curiosidade intrínseca. A mágica acontece por meio de interesse puro e legítimo.
 
 >HARD SKILLS & HABILIDADES
-- Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
+Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
 Dentre as linguagens e tecnologias eu aprendi:
->Estruturas de páginas em HTML;
->Estilização Cascata CSS;
->Javascript Vanilla ES6;
+-Estruturas de páginas em HTML;
+-Estilização Cascata CSS;
+-Javascript Vanilla ES6;
 (Café, puro e sem açúcar por favor!)
 _
 Dentre as bibliotecas e frameworks, conheço um pouco de React, Bootstrap.
