@@ -14,11 +14,11 @@
 
 <h3>HARD SKILLS & HABILIDADES</h3>
 <p>>Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
-Dentre as linguagens e tecnologias eu aprendi:
+Dentre as linguagens e tecnologias eu aprendi:</p>
 -Estruturas de páginas em HTML;
 -Estilização Cascata CSS;
 -Javascript Vanilla ES6;
-(Café, puro e sem açúcar por favor!)</p>
+(Café, puro e sem açúcar por favor!)
 
 Dentre as bibliotecas e frameworks, conheço um pouco de ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
