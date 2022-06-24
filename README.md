@@ -6,8 +6,6 @@
     <a href="https://www.linkedin.com/in/andre-gbf"><img src="https://img.shields.io/badge/-Andre%20GB%20Farias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:andreriffen6@gmail.com"><img src="https://img.shields.io/badge/-andreriffen6@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<p><i>&nbsp;&nbsp;&nbsp;"Hmmm... 'System32' Que nome engraçado..."</i></p>
-<div>Nesse dia, o computador não ligou mais.</div><br>
 
 <h2> ℹ️ &nbsp;&nbsp;&nbsp;Sobre</h2>
 <p><b>👋 Sou Andre, meus amigos me chamam de Riffen, tenho 29 anos e sou estudante de desenvolvimento front-end.</b></p>
