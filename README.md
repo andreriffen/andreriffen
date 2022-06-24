@@ -52,6 +52,7 @@ Busco a primeira experiência como desenvolvedor.</p>
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 <p>Noções de</p>
+
 ![Linux](https://flat.badgen.net/badge/icon/linux?icon=terminal&label)
 
 ![Git](https://flat.badgen.net/badge/icon/gitbash?icon=git&label)
