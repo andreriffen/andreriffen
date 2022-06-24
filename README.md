@@ -20,20 +20,22 @@ Busco a primeira experiência como desenvolvedor.</p>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-<p>Tenho algumas noções de:</p>
 
-![Linux](https://flat.badgen.net/badge/icon/linux?icon=terminal&label)
-![Git](https://flat.badgen.net/badge/icon/gitbash?icon=git&label)
-<h3>🎓 &nbsp;O que irei aprender</h3>
-<p>Recentemente comecei a aprender:</p>
+<h3>🎓 &nbsp;Em progresso</h3>
+<p>🌱Atualmente</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-<p>Mais no futuro, me interesso em aprender:</p>
+
+<p>Em breve</p>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+<p>Noções de</p>
+![Linux](https://flat.badgen.net/badge/icon/linux?icon=terminal&label)
+![Git](https://flat.badgen.net/badge/icon/gitbash?icon=git&label)
 
 <!--
 **andreriffen/andreriffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
