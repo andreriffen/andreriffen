@@ -30,6 +30,7 @@ Busco a primeira experiência como desenvolvedor.</p>
 
 <p>Noções de</p>
 ![Linux](https://flat.badgen.net/badge/icon/linux?icon=terminal&label)
+
 ![Git](https://flat.badgen.net/badge/icon/gitbash?icon=git&label)
 
 <!--
