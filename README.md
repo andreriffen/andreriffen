@@ -59,8 +59,7 @@ Dentre as linguagens e tecnologias eu aprendi:</p>
 
 ![Git](https://flat.badgen.net/badge/icon/gitbash?icon=git&label)
 
-<p>Em um futuro próximo, é de meu interesse abordar estudos em Phyton, Node JS, Ruby e outras tecnologias back-end.
-Tenho interesse em me especializar em Web Ux e Ui, mas por enquanto tenho um caminho a seguir até lá.</p>
+
 <h4> Eu tinha uns 8 anos quando tive meu primeiro contato com a construção de HTML em um bloco de notas. Foi uma sensação mágica, me incentivou a procurar mais comandos, construir uma página e mostrar pra outras pessoas o que eu tinha feito. Estive transitando entre os diferentes mundos da tecnologia e informática. Trabalhei por anos com eletroeletrônicos com IoT; equipamentos em redes, sistemas de segurança; além de soluções para estruturas de conexão com a internet. Muito dessas experiências com informática, só me ajudaram a perceber o potencial que eu tenho, e que poderia trabalhar em soluções para projetos incríveis.</h4>
 
 <p>Começou a alguns anos a melhor decisão da minha vida. Minha entrada no mundo da programação foi totalmente imersiva, radical e transformadora.
