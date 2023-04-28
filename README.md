@@ -8,9 +8,9 @@
 </p>
 
 <h2> ℹ️ &nbsp;&nbsp;&nbsp;Sobre</h2>
-<p><b>👋 Hello world! Meu nome é André, meus amigos me chamam de Riffen, tenho 29 anos e sou estudante de desenvolvimento front-end.</b></p>
+<p><b>👋 André, meus amigos me chamam de Riffen, tenho 29 anos e sou estudante de desenvolvimento front-end.</b></p>
 <p>Procuro minha primeira experiência remunerada em front-end. </p>
-<p>Ser um Dev foi certamente a melhor decisão que fiz em 2021. Desde então tem sido uma jornada que despertou virtudes adormecidas por anos, que evoca certa nostalgia. Trouxe de volta a boa sensação de fazer algo novo, navegar na internet por ideias diferentes, algo que está associado a uma curiosidade intrínseca. A mágica acontece por meio de interesse puro e legítimo.</p>
+<p>Ser um Dev foi certamente a melhor decisão que fiz em 2021. Curiosidade é intrínseca. A mágica está no interesse puro e legítimo.</p>
 
 <h3>HARD SKILLS & HABILIDADES</h3>
 <p>>Hoje sou capaz de analisar, projetar, documentar, prototipar e implementar aplicações.
