@@ -3,7 +3,6 @@ Riffen here. A brief glimpse into my lack of use of the infamous "_Hello World_"
 I rather using Portuguese "`Fala rapaziada`" conveys perfectly, trust me.
 
 Avoiding formalities would be linked to the fact of being present on the internet since the beginning of the 2000's; where young me was already rummaging and snooping around in places that I had no idea would be my future years later.
-
 Curiosity is intrinsic. Magic happens when there is pure and legitimate interest.
 As a matter of fact: nerds like me were here the whole time. Several internet spaces and services in my country, in their first widespread forms, were my safe haven.
 
