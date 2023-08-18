@@ -1,8 +1,7 @@
 ## Greetings! 
 Riffen here. A brief glimpse into my lack of use of the infamous "_Hello World_" term.
-I rather using Portuguese "`Fala rapaziada`" conveys perfectly, trust me.
 
-Avoiding formalities would be linked to the fact of being present on the internet since the beginning of the 2000's; where young me was already rummaging and snooping around in places that I had no idea would be my future years later.
+<!-- Avoiding formalities would be linked to the fact of being present on the internet since the beginning of the 2000's; where young me was already rummaging and snooping around in places that I had no idea would be my future years later.
 Curiosity is intrinsic. Magic happens when there is pure and legitimate interest.
 As a matter of fact: nerds like me were here the whole time. Several internet spaces and services in my country, in their first widespread forms, were my safe haven.
 
@@ -32,7 +31,7 @@ Something very casual, nothing too awesome. A space for me to pretend I'm a jour
 
 ## "Heap of aesthetics"
 It might not have a very groovy name, but it might be the most interesting one. It will aim to bring together pop culture interests, music, comics, science fiction, memes, maybe a dash of humor, something more aimed at young entertainment.
-
+-->
 ## Portfolio
  I'd prefer to call it a small experiment laboratory, but I have questionable taste in naming things, so I'll stick with the more obvious. This would be to house those small interesting projects, or small features, some component of a library. Something along these lines.
 
