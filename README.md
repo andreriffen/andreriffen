@@ -1,5 +1,5 @@
 ## Greetings! 
-Riffen here. A brief glimpse into my lack of use of the infamous "_Hello World_" term.
+Riffen here. A brief glimpse into my lack of using "_Hello World_" term.
 
 <!-- Avoiding formalities would be linked to the fact of being present on the internet since the beginning of the 2000's; where young me was already rummaging and snooping around in places that I had no idea would be my future years later.
 Curiosity is intrinsic. Magic happens when there is pure and legitimate interest.
