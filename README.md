@@ -4,10 +4,8 @@ Riffen here.
 <div align="center"> 
     
     💬📫💬
-    Do you like some of my ideas?
-    Feel free to send me a message! 
-    I love talking to random strangers,
-    especially if you're a tech recruiter.
+    Like my projects?
+    Hire me, if you're a tech recruiter!
 
 </div>
 
