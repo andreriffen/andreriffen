@@ -2,9 +2,7 @@
 
 Riffen here. 
 
-Acesse meu portfolio 
-
-![https://andreriffen.github.io/portfolio/](clicando aqui)
+Acesse meu portfolio clicando ![https://andreriffen.github.io/portfolio/](aqui)
 
 💬📫💬
 
