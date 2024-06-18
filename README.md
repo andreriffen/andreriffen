@@ -1,8 +1,6 @@
-## Greetings! 
+## Greetings @everyone 🖖!
 
-Riffen here. 
-
-Acesse meu portfolio acessando este link https://andreriffen.github.io/portfolio/
+Bio: link https://andreriffen.github.io/portfolio/
 
 💬📫💬
 
