@@ -38,7 +38,7 @@ _Comprehensive reading & conversational ability._
 ### 🔗 Contatos  
 🐙 **GitHub:** [github.com/andreriffen](https://github.com/andreriffen)  
 💼 **LinkedIn:** [linkedin.com/in/andre-gbf](https://linkedin.com/in/andre-gbf)  
-📫 **E-mail:** [andreriffen@gmail.com](mailto:andreriffen@gmail.com)
+📫 **E-mail:** [andreriffen6@gmail.com](mailto:andreriffen6@gmail.com)
 
 ---
 
