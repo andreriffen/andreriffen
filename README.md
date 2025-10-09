@@ -14,28 +14,28 @@
 
 ---
 
-### 📌 Desenvolvedor Web & Back-End  
-Atualmente trabalhando com **Laravel** e **Spring**, desenvolvendo aplicações web e automações internas.  
-Foco em **código limpo**, **arquitetura simples** e **boas práticas de versionamento**.
+### 📌 Web & Back-End Developer  
+Currently working with **Laravel** and **Spring**, building web applications and internal automation tools.  
+Focused on **clean code**, **simple architecture**, and **solid version control practices**.
 
 ---
 
-### 🧠 Interesses  
-- Clean Architecture e SOLID  
-- APIs REST e integrações  
-- Git, CI/CD e automação de ambiente  
-- Banco de dados relacionais e desempenho  
-- Refatoração e legibilidade de código  
+### 🧠 Interests  
+- Clean Architecture & SOLID principles  
+- REST APIs and integrations  
+- Git, CI/CD, and environment automation  
+- Relational databases and performance tuning  
+- Refactoring and code readability  
 
 ---
 
-### 🌎 Idiomas  
+### 🌎 Languages  
 🇬🇧 **English – CEFR B1+ (Intermediate)**  
 _Comprehensive reading & conversational ability._
 
 ---
 
-### 🔗 Contatos  
+### 🔗 Contacts  
 🐙 **GitHub:** [github.com/andreriffen](https://github.com/andreriffen)  
 💼 **LinkedIn:** [linkedin.com/in/andre-gbf](https://linkedin.com/in/andre-gbf)  
 📫 **E-mail:** [andreriffen6@gmail.com](mailto:andreriffen6@gmail.com)
