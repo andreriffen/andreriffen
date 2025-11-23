@@ -1,4 +1,4 @@
-# 👨‍💻 André GB Riffen Farias
+# André GB Riffen Farias
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
