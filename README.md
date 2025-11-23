@@ -12,6 +12,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 
+Trying to solve real problems — the everyday kind. Rocket science and quantum magic can stay with the experts.
+
 ---
 
 ### 📌 Web & Back-End Developer  
