@@ -1,5 +1,7 @@
 # André GB Riffen Farias
 
+[— View my resume ↗](https://andreriffen.github.io/resume/)
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](#)
